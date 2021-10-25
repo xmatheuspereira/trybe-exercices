@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Ubuntu
+Javascript
+Python
+XP
+Trybe
