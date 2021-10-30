@@ -4,7 +4,7 @@ Atividades desenvolvidas por __[mim](https://github.com/xmatheuspereira)__ duran
 
 >TRYBE - Turma XP Inc.
 
-"A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes. Com o modelo de Sucesso Compartilhado, quem estuda na Trybe tem a opção de pagar apenas quando já estiver trabalhando.
+"A Trybe é uma escola de tecnologia que tem comprometimento genuíno com o sucesso profissional das pessoas estudantes.
 São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento web, desenvolvimento, Front-end, Back-end, ciência da computação, metodologias ágeis e habilidades comportamentais."
 
 ## Fundamentos do Desenvolvimento Web
@@ -81,7 +81,7 @@ São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento
 - [ ] 10.3 - Jest - Simulando comportamentos
 - [ ] 10.4 - Projeto - Jest Assíncrono e Mocking
 
-## Desenvolvimento Front-end :heavy_check_mark:
+## Desenvolvimento Front-end 
 
 ##### Bloco 11: [Introdução à React]
 - [ ] 11.1 - Introdução - Front-end
@@ -130,7 +130,7 @@ São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento
 ##### Bloco 19: Projeto App de Receitas
 - [ ] 19.1 - Projeto - App de Receitas
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end 
 
 ##### Bloco 20: [Introdução à SQL]
 - [ ] 20.1 - Introdução - Back-end
