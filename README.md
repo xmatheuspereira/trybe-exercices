@@ -81,7 +81,7 @@ São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento
 - [ ] 10.3 - Jest - Simulando comportamentos
 - [ ] 10.4 - Projeto - Jest Assíncrono e Mocking
 
-## Desenvolvimento Front-end :heavy_check_mark:
+## Desenvolvimento Front-end 
 
 ##### Bloco 11: [Introdução à React]
 - [ ] 11.1 - Introdução - Front-end
@@ -130,7 +130,7 @@ São mais de 1.500 horas de formação que aborda fundamentos de desenvolvimento
 ##### Bloco 19: Projeto App de Receitas
 - [ ] 19.1 - Projeto - App de Receitas
 
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+## Desenvolvimento Back-end 
 
 ##### Bloco 20: [Introdução à SQL]
 - [ ] 20.1 - Introdução - Back-end
